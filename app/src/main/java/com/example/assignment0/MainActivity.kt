@@ -1,11 +1,7 @@
+//Copyright 2026 Jacob Templado
 package com.example.assignment0
 
-/*
-LIST OF RESOURCES:
-https://medium.com/@appdevinsights/what-is-state-hoisting-in-jetpack-compose-88946957584a (state managment)
-https://developer.android.com/ (Modifier API, Compose Architecture
 
- */
 
 import android.graphics.Paint
 import android.os.Bundle
